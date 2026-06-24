@@ -1,0 +1,12 @@
+{
+  "name": "kenya-val-lib-20260624b",
+  "version": "1.0.0",
+  "description": "Kenyan utility library for KRA PIN, ID, and Mobile validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["kenya", "validation", "kra", "id", "safaricom"],
+  "author": "Developer",
+  "license": "MIT"
+}
